@@ -5,7 +5,7 @@ import scene, art;
   */
 scene.splash(function() {
   scene.addText('Avoider: Tap to start!');
-  scene.addBackground(art('starscape_2');
+  scene.addBackground(art('starscape_2'));
 });
 
 scene(function() {
